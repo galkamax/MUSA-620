@@ -45,7 +45,7 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 | Spring Break|
 | Week 8|Mar 15|		Natural language processing: sentiment analysis|
 |Week 9|	Mar 22		|Data visualization with R: ggplot2|
-|Week 10	Mar 29		Geocoding / mapping with R: ggmap
+|Week 10|	Mar 29	|	Geocoding / mapping with R: ggmap|
 |Week 11	Apr 5		  Shiny
 Week 12	Apr 12		Shiny
 
