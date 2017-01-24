@@ -27,8 +27,10 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 	
 **SCHEDULE**
 
-|Week 1|Jan 18|Introduction / Data visualization concepts|
-|Week 2|Jan 25|Web scraping with R|
+| Class # | Date | Topic |
+|-----|------|-------|
+| Week 1 | Jan 18 | Introduction / Data visualization concepts |
+| Week 2 | Jan 25 | Web scraping with R |
 
 Week 3	Feb 1		  Census data: American Community Survey API
 
