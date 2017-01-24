@@ -1,4 +1,4 @@
-MUSA 620: Data Wrangling and Data Visualization
+**MUSA 620: Data Wrangling and Data Visualization**
 
 SCHEDULING	Class: Wednesdays from 9am to 12pm. Office hours: Mondays from 1pm to 5pm, by appointment.
 				
@@ -20,19 +20,33 @@ GRADING	The grading breakdown is as follows: 50% for homework; 40% for final pro
 SOFTWARE	This course relies on use of the R Statistical Package in conjunction with Shiny and other associated extensions. 
 	
 SCHEDULE
-Week 1	Jan 18		Introduction / Data visualization concepts 
-Week 2	Jan 25		Web scraping with R 
-Week 3	Feb 1		  Census data: American Community Survey API 
-Week 4	Feb 8		  Unstructured data: Twitter API 
+Week 1	Jan 18		Introduction / Data visualization concepts
+
+Week 2	Jan 25		Web scraping with R
+
+Week 3	Feb 1		  Census data: American Community Survey API
+
+Week 4	Feb 8		  Unstructured data: Twitter API
+
 Week 5	Feb 15		Large datasets: NYC Taxi & Uber trip data with Google BigQuery
-Week 6	Feb 22		Spatial databases: PostGIS 
+
+Week 6	Feb 22		Spatial databases: PostGIS
+
 Week 7	Mar 1		  Data frames and data manipulation with R: dplyr
+
 Spring Break
+
 Week 8	Mar 15		Natural language processing: sentiment analysis
+
 Week 9	Mar 22		Data visualization with R: ggplot2
+
 Week 10	Mar 29		Geocoding / mapping with R: ggmap
-Week 11	Apr 5		  Shiny 
+
+Week 11	Apr 5		  Shiny
+
 Week 12	Apr 12		Shiny
+
 Week 13	Apr 19		Shiny 
+
 Week 14	Apr 26		In-class work on final projects
 
