@@ -57,7 +57,8 @@ Week 13	Apr 19		Shiny
 Week 14	Apr 26		In-class work on final projects
 
 
-| sd  | asda | ddd   |   |   |
-|-----|------|-------|---|---|
-| asd | sdsd | asdas |   |   |
-| ss  | d    | sd    |   |   |
+| sd  | asda | ddd   |
+|-----|------|-------|
+| asd | sdsd | Introduction / Data visualization concepts |
+| ss  | d    | sd    |
+| ss  | d    | sd    |
