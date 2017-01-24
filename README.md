@@ -46,16 +46,11 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 | Week 8|Mar 15|		Natural language processing: sentiment analysis|
 |Week 9|	Mar 22		|Data visualization with R: ggplot2|
 |Week 10|	Mar 29	|	Geocoding / mapping with R: ggmap|
-|Week 11	Apr 5		  Shiny
-Week 12	Apr 12		Shiny
+|Week 11|	Apr 5		 | Shiny|
+|Week 12	|Apr 12		|Shiny|
 
-Week 13	Apr 19		Shiny 
+|Week 13	|Apr 19		|Shiny |
 
-Week 14	Apr 26		In-class work on final projects
+|Week 14	|Apr 26		|In-class work on final projects|
 
 
-| sd  | asda | ddd   |
-|-----|------|-------|
-| asd | sdsd | Introduction / Data visualization concepts |
-| ss  | d    | sd    |
-| ss  | d    | sd    |
