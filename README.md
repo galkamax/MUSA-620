@@ -31,18 +31,12 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 |-----|------|-------|
 | Week 1 | Jan 18 | Introduction / Data visualization concepts |
 | Week 2 | Jan 25 | Web scraping with R |
-
-Week 3	Feb 1		  Census data: American Community Survey API
-
-Week 4	Feb 8		  Unstructured data: Twitter API
-
-Week 5	Feb 15		Large datasets: NYC Taxi & Uber trip data with Google BigQuery
-
-Week 6	Feb 22		Spatial databases: PostGIS
-
-Week 7	Mar 1		  Data frames and data manipulation with R: dplyr
-
-Spring Break
+| Week 3 | Feb 1 | Census data: American Community Survey API |
+| Week 4 | Feb 8 | Unstructured data: Twitter API |
+| Week 5 | Feb 15 | Large datasets: NYC Taxi & Uber trip data with Google BigQuery |
+| Week 6 | Feb 22 | Spatial databases: PostGIS |
+| Week 7 | Mar 1 | Data frames and data manipulation with R: dplyr |
+|Spring Break|
 
 Week 8	Mar 15		Natural language processing: sentiment analysis
 
